@@ -1,0 +1,1 @@
+java -cp yodalite.jar org.r2funny.litesvr.R2IOTServer
